@@ -7,3 +7,4 @@ CREATE TABLE Etudiant (
   prenom varchar(20) DEFAULT "ben jeddi" NOT NULL,
   age int(20) DEFAULT 0 NOT NULL,
 );
+
